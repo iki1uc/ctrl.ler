@@ -208,7 +208,7 @@ UNLEBEN (${UNLEBEN.id}) → Wartet auf ReHall ${UNLEBEN.sammelt.length}
     `.trim()
   }
 }
- 
+
 // Export für Browser + Node
 if (typeof window !== 'undefined') {
   window.ZELLE = ZELLE
