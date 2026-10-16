@@ -1,8 +1,12 @@
-ROM-Kern (unsterblich):
-ether.js [STAMM], void.js [BLATT PAUSE 0B], atom.js, 729, 81, hdf.rom
+# ROM.md — STAMM :: Read Only Memory :: Biotel Überlebens-Kern
 
-RAM-Ring (sterblich):
-player.js , uno.js , figur.js, soccer.js, wetter.js, leben.js
+> ROM überlebt Stromausfall. RAM nicht.  
+> Wenn alles crasht, baut ROM neu. Deshalb ROM zuerst.
 
-CTRL dazwischen (entscheidet wer nach ROM darf):
-Cache.ctrl.js, rom.ctrl.js, role.ctrl.js, cpu.js, ctrl.index.html
+## 1. Was ist ROM in iki1uc
+
+ROM = einmal geschrieben, danach nur noch gelesen. 
+Nicht editierbar im Live-Betrieb. 
+Versioniert, signiert, zentral.
+
+ROM ist nicht "alter Code". ROM ist Bauplan.
