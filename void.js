@@ -1,3 +1,4 @@
-git add void.js
-git commit -m "void.js gereinigt — ATEM LUFT — ein halten aus halten — BLATT hat CLOSED drin — ROOT⊃ETHER⊃VOID — 0 B — SEED ⟁"
+git rm void.js
+git add 0/void.tmp.js
+git commit -m "void.js → 0/void.tmp.js — ROOT⊃ETHER⊃VOID — AUF statt CLOSED — welcome — ATEM LUFT"
 git push
