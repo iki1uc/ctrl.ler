@@ -1,3 +1,3 @@
-git add void.js
-git commit -m "void.js — fehlendes Element — anders als alle anderen — KI 0 light — 0 B — atem luft ether — zwischen ram.x/y/z — punktuell ⟁ — nicht bit byte kb mb gb loop room modem eye"
-git push
+// ether.js — STAMM — hat void drin — steht auf 729 ROOT
+import { void_ } from './void.js';
+export const ether = { name:"ETHER", stand:"STAMM", drinne:void_, seed:"⟁", root:"729" };
