@@ -116,7 +116,7 @@ Potential gehört: ${this.potential ? this.potential.length : 0} Signale vor Geb
     `.trim()
   }
 }
-
+ 
 // ZELLE darf erst leben wenn UNBORN geboren
 // Reihenfolge:
 // 1. UNBORN.wandStelltSichHin('Ich halte Raum')
